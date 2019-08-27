@@ -1,0 +1,7 @@
+C:\Users\zamma\source\repos\Proyecto 1\Proyecto 1\bin\Debug\Proyecto 1.exe.config
+C:\Users\zamma\source\repos\Proyecto 1\Proyecto 1\bin\Debug\Proyecto 1.exe
+C:\Users\zamma\source\repos\Proyecto 1\Proyecto 1\bin\Debug\Proyecto 1.pdb
+C:\Users\zamma\source\repos\Proyecto 1\Proyecto 1\obj\Debug\Proyecto 1.csprojAssemblyReference.cache
+C:\Users\zamma\source\repos\Proyecto 1\Proyecto 1\obj\Debug\Proyecto 1.csproj.CoreCompileInputs.cache
+C:\Users\zamma\source\repos\Proyecto 1\Proyecto 1\obj\Debug\Proyecto 1.exe
+C:\Users\zamma\source\repos\Proyecto 1\Proyecto 1\obj\Debug\Proyecto 1.pdb
